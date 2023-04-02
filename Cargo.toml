@@ -1,0 +1,14 @@
+[package]
+name = "rudotai"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+winit = "0.28.3"
+wgpu = "0.15.1"
+pollster = "0.3.0"
+rand = "0.8.5"
+
+[lib]
+name = "rudotai"
+path = "src/lib.rs"
