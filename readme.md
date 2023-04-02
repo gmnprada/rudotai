@@ -6,7 +6,7 @@ In mathematics, a dot typically refers to a point in a 2-dimensional or 3-dimens
 
 Dots are commonly used in various fields such as geometry, physics, and computer science. In computer science, dots are often used as a way to represent objects in a 2-dimensional or 3-dimensional space. They can be used to represent images, 3D models, and other types of visual data.
 
-Dot also can refer into the last point of needl tip , a square , or a cube depends on zoom levels of viewport and camera, its also can refer into a pixel in bits.
+Dot also can refer into the last point of needle tip , a square , or a cube depends on zoom levels of viewport and camera, its also can refer into a pixel in bits.
 
 ## How Dot Terms Used Here
 
@@ -86,3 +86,12 @@ this readme is still on going as i didn't know how usefull will be this lib.
 ### for what of use the generation data?
 
 modelling best path and line to generate most efficient method on object creation and animation from just a number to train in AI model based on vote the object is correct or not.
+
+
+### Enough Explanation Give me Run the code command
+
+simple as any rust program you need cargo and rustup installed
+```
+cargo build
+cargo run
+```
